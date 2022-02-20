@@ -1,4 +1,4 @@
-# Ubuntu日本語化（JIS配列対応）
+# MacのUbuntu日本語化（JIS配列）
 GPG鍵とレポジトリインストール
 
 https://www.ubuntulinux.jp/japanese(以下コピペ）
